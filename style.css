@@ -103,7 +103,9 @@ section{
 }
 
 /* Smartphone Landscape */
-@media (min-width: 576px) {}
+@media (min-width: 576px) {
+  
+}
 
 /* Tablet Portrait */
 @media (min-width: 768px) {}
